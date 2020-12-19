@@ -1,0 +1,8 @@
+
+Partidas terminadas em timeout:  10
+Tempo médio pro término de uma partida:  53.876666666666665
+Porcentagem de vitórias do jogador Impulsivo:  20.666666666666668 %
+Porcentagem de vitórias do jogador Exigente:  29.666666666666668 %
+Porcentagem de vitórias do jogador Cauteloso:  27.333333333333332 %
+Porcentagem de vitórias do jogador Aleatório:  22.333333333333332 %
+Maior Vencedor : Jogador Exigente
